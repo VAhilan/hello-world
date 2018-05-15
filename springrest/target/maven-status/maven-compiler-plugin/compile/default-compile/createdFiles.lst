@@ -1,0 +1,13 @@
+com\mycase\soap\webservice\CustomerAgreementWsImplService.class
+com\ahilan\mycase\CustomerAgreementPortType.class
+com\ahilan\mycase\UpdateStatusRequest.class
+com\ahilan\mycase\UpdateStatusResponse.class
+com\ahilan\mycase\CreateCustomerRequest.class
+com\ahilan\mycase\CreateAgreementRequest.class
+com\ahilan\mycase\ObjectFactory.class
+com\ahilan\mycase\package-info.class
+com\ahilan\mycase\CreateAgreementResponse.class
+com\ahilan\mycase\UpdateStatus.class
+com\ahilan\mycase\CreateCustomerResponse.class
+com\ahilan\mycase\Customer.class
+com\ahilan\mycase\Agreement.class
